@@ -4,9 +4,7 @@ Prediction of heart attack risk using various classifiers.
 
 Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-Results:
-
-Model (Test Accuracy):
+Model Results (Test Accuracy):
 
 1) MLP Classifier: 82.6 %
 2) Ada Boost Classifier: 87.0 %
